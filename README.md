@@ -15,3 +15,5 @@ The appropriate waste collector in the chain should handle the disposal based on
 4.  Validation: Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
 # UML CLASS DIAGRAM :
+
+![Blank diagram (4)](https://github.com/user-attachments/assets/f94cad51-169a-43c8-b635-53a1d263e3be)
